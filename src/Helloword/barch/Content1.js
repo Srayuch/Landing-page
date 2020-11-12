@@ -56,7 +56,7 @@ function Content1(props) {
                   align="left"
                   gutterBottom
                 >
-                  Build your business, hobby or career. 555555555
+                  Build your business, hobby or career.
                 </WhiteTextTypographyHeader>
                 <Typography
                   variant="subtitle1"
