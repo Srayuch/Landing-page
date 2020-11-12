@@ -1,0 +1,10 @@
+
+.imgs-sponser {
+  height: 5vmin;
+  pointer-events: none;
+}
+.imgs-sponser-mobile{
+  height: 12vmin;
+  pointer-events: none;
+}
+
